@@ -37,3 +37,8 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+/.quarto/
+.Rproj.user
+.Rdata
+.DS_Store

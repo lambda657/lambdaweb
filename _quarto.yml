@@ -1,0 +1,29 @@
+project:
+  type: website
+
+lang: es
+
+execute:
+  freeze: auto  # re-render only when source changes
+  echo: false
+  warning: false
+  message: false
+
+website:
+  title: "Lambda"
+  navbar:
+    background: primary
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Menu"
+        menu:
+          - "sesion_1.qmd"
+          - "sesion_2.qmd"
+
+format:
+  html:
+    theme: flatly
+    toc: true
+    tbl-cap-location: top
+    fig-cap-location: top
