@@ -20,7 +20,8 @@ website:
         menu:
           - "sesion_1.qmd"
           - "sesion_2.qmd"
-
+          - "sesion_3.qmd"
+          
 format:
   html:
     theme: flatly
