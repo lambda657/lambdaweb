@@ -1,0 +1,27 @@
+---
+title: "Sesión 3"
+---
+
+1.  Setup Lambda
+    a.  Generar gmail a Lambda:
+
+    b.  Github
+
+    c.  Hacer un repositorio de Lambda
+
+    d.  Desplegar página web
+2.  Grupo orientado a proyectos
+    a.  Abierta, sin factor de expansión, grande: Lapop, WVS (World Value Serving)
+
+    b.  Generar tablas, mapas, visualizaciones
+
+    c.  Clústers, k-means
+
+    d.  Técnicas de Machine Learning
+3.  Revisar recursos
+    a.  Revisar bibliografía del curso o clases importantes
+
+```{r}
+2+2
+```
+
