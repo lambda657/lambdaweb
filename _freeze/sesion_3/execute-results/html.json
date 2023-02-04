@@ -1,7 +1,7 @@
 {
-  "hash": "41f89b9d8f6ee4e7d36c5cce5adf027e",
+  "hash": "0f64570a26ac9788cbf88d5372bc75b2",
   "result": {
-    "markdown": "---\ntitle: \"Sesión 3\"\n---\n\n\n1.  Setup Lambda\n    a.  Generar gmail a Lambda:\n\n    b.  Github\n\n    c.  Hacer un repositorio de Lambda\n\n    d.  Desplegar página web\n2.  Grupo orientado a proyectos\n    a.  Abierta, sin factor de expansión, grande: Lapop, WVS (World Value Serving)\n\n    b.  Generar tablas, mapas, visualizaciones\n\n    c.  Clústers, k-means\n\n    d.  Técnicas de Machine Learning\n3.  Revisar recursos\n    a.  Revisar bibliografía del curso o clases importantes\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] 4\n```\n:::\n:::\n\n\nUn comentario de Santiago",
+    "markdown": "---\ntitle: \"Sesión 3\"\n---\n\n\n1.  Setup Lambda\n    a.  Generar gmail a Lambda:\n\n    b.  Github\n\n    c.  Hacer un repositorio de Lambda\n\n    d.  Desplegar página web\n2.  Grupo orientado a proyectos\n    a.  Abierta, sin factor de expansión, grande: Lapop, WVS (World Value Serving)\n\n    b.  Generar tablas, mapas, visualizaciones\n\n    c.  Clústers, k-means\n\n    d.  Técnicas de Machine Learning\n3.  Revisar recursos\n    a.  Revisar bibliografía del curso o clases importantes\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] 4\n```\n:::\n:::\n\n\nUn comentario de Santiago\n",
     "supporting": [
       "sesion_3_files"
     ],

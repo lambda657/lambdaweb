@@ -1,6 +1,12 @@
 ---
 title: "Sesión 1"
+toc: true
 ---
+
 Esta es la sesión 1
 
 Este es mi cambio.
+
+# Pruebas de lambda
+
+*`1.. 2.. 3..`*
