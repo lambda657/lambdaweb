@@ -1,0 +1,16 @@
+{
+  "hash": "616b11e21f44f53426c554fc5774a539",
+  "result": {
+    "markdown": "---\ntitle: \"Sesión 3\"\ndate: 02/05/2023\n---\n\n\n1.  Setup Lambda\n    a.  Generar gmail a Lambda:\n\n    b.  Github\n\n    c.  Hacer un repositorio de Lambda\n\n    d.  Desplegar página web\n2.  Grupo orientado a proyectos\n    a.  Abierta, sin factor de expansión, grande: Lapop, WVS (World Value Serving)\n\n    b.  Generar tablas, mapas, visualizaciones\n\n    c.  Clústers, k-means\n\n    d.  Técnicas de Machine Learning\n3.  Revisar recursos\n    a.  Revisar bibliografía del curso o clases importantes\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] 4\n```\n:::\n:::\n\n\nUn comentario de Santiago\n",
+    "supporting": [
+      "sesion3_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

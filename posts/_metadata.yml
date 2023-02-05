@@ -1,0 +1,21 @@
+execute:
+  freeze: auto  # re-render only when source changes
+  echo: false
+  warning: false
+  message: false
+  
+toc: true
+tbl-cap-location: top
+fig-cap-location: top
+code-tools: true
+code-link: true
+
+# Default fields for citation
+citation: true
+
+format:
+  html:
+    include-after-body: ../footer.html
+
+
+    

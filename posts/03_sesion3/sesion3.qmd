@@ -1,5 +1,6 @@
 ---
 title: "Sesión 3"
+date: 02/05/2023
 ---
 
 1.  Setup Lambda

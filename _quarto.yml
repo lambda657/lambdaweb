@@ -3,28 +3,21 @@ project:
 
 lang: es
 
-execute:
-  freeze: auto  # re-render only when source changes
-  echo: false
-  warning: false
-  message: false
-
 website:
   title: "Lambda"
+  page-footer: "Copyright 2023, Lambda"
   navbar:
     background: primary
     right:
       - text: "Home"
         href: index.qmd
-      - text: "Menu"
-        menu:
-          - "sesion_1.qmd"
-          - "sesion_2.qmd"
-          - "sesion_3.qmd"
+      - text: "About"
+        href: about.qmd
+      - icon: github
+        href: https://github.com/lambda657/
           
 format:
   html:
     theme: flatly
-    toc: true
-    tbl-cap-location: top
-    fig-cap-location: top
+    css: styles.css
+    

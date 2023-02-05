@@ -1,5 +1,6 @@
 ---
 title: "Sesión 1"
+date: 02/03/2023
 toc: true
 ---
 
