@@ -1,30 +1,37 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "about.html",
+    "href": "about.html",
     "title": "Lambda",
     "section": "",
-    "text": "Hola, esta es la página de Lambda"
+    "text": "Grupo Lambda"
   },
   {
-    "objectID": "sesion_1.html",
-    "href": "sesion_1.html",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Sesión 3\n\n\n\n\n\n\n\n\n\n\n\n\n5 feb 2023\n\n\n\n\n\n\n\n\nSesión 2\n\n\n\n\n\n\n\n\n\n\n\n\n4 feb 2023\n\n\n\n\n\n\n\n\nSesión 1\n\n\n\n\n\n\n\n\n\n\n\n\n3 feb 2023\n\n\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "posts/01_sesion1/sesion1.html",
+    "href": "posts/01_sesion1/sesion1.html",
     "title": "Sesión 1",
     "section": "",
-    "text": "Esta es la sesión 1\nEste es mi cambio.\n\nPruebas de lambda\n1.. 2.. 3.."
+    "text": "Esta es la sesión 1\nEste es mi cambio.\n\nPruebas de lambda\n1.. 2.. 3..\n\n\n\n\n\n\nCómo citarBibTeX@online{2023,\n  author = {},\n  title = {Sesión 1},\n  date = {2023-03-02},\n  langid = {es}\n}\nPor favor, cita este trabajo como:\n“Sesión 1.” 2023. March 2, 2023."
   },
   {
-    "objectID": "sesion_2.html",
-    "href": "sesion_2.html",
+    "objectID": "posts/02_sesion2/sesion2.html",
+    "href": "posts/02_sesion2/sesion2.html",
     "title": "Sesión 2",
     "section": "",
-    "text": "Esta es la sesión 2"
+    "text": "Esta es la sesión 2\n\n\n\n\n\nCómo citarBibTeX@online{2023,\n  author = {},\n  title = {Sesión 2},\n  date = {2023-04-02},\n  langid = {es}\n}\nPor favor, cita este trabajo como:\n“Sesión 2.” 2023. April 2, 2023."
   },
   {
-    "objectID": "sesion_3.html",
-    "href": "sesion_3.html",
+    "objectID": "posts/03_sesion3/sesion3.html",
+    "href": "posts/03_sesion3/sesion3.html",
     "title": "Sesión 3",
     "section": "",
-    "text": "Setup Lambda\n\nGenerar gmail a Lambda:\nGithub\nHacer un repositorio de Lambda\nDesplegar página web\n\nGrupo orientado a proyectos\n\nAbierta, sin factor de expansión, grande: Lapop, WVS (World Value Serving)\nGenerar tablas, mapas, visualizaciones\nClústers, k-means\nTécnicas de Machine Learning\n\nRevisar recursos\n\nRevisar bibliografía del curso o clases importantes\n\n\n\n\n[1] 4\n\n\nUn comentario de Santiago"
+    "text": "Setup Lambda\n\nGenerar gmail a Lambda:\nGithub\nHacer un repositorio de Lambda\nDesplegar página web\n\n\nGrupo orientado a proyectos\n\nAbierta, sin factor de expansión, grande: Lapop, WVS (World Value Serving)\nGenerar tablas, mapas, visualizaciones\nClústers, k-means\nTécnicas de Machine Learning\n\n\nRevisar recursos\n\nRevisar bibliografía del curso o clases importantes\n\n\n\n\n\n[1] 4\n\n\nUn comentario de Santiago\n\n\n\n\n\nCómo citarBibTeX@online{2023,\n  author = {},\n  title = {Sesión 3},\n  date = {2023-05-02},\n  langid = {es}\n}\nPor favor, cita este trabajo como:\n“Sesión 3.” 2023. May 2, 2023."
   }
 ]

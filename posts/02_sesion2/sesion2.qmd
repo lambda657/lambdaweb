@@ -1,4 +1,5 @@
 ---
 title: "Sesión 2"
+date: 02/04/2023
 ---
 Esta es la sesión 2
